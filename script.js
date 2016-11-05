@@ -1,1 +1,1 @@
-alert("du");
+alert("ich gehe nach hause");
